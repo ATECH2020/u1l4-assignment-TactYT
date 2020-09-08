@@ -18,6 +18,11 @@ class Timestamps {
         /*
          *  your code goes here
          */
+         secInHour1 = hours1 * 3600;
+         secInhour2 = hours2 * 3600;
+         int deltaHour = secInhour2 - secInHour1;
+         int totalSec = 
+        
 
 
         // closing the scanner object
